@@ -1,0 +1,3 @@
+#Ignorisi sve .pkl fajlove
+*.pkl
+/model
